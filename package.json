@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "ractive": "^0.6.1",
-    "rcu": "~0.2.1",
+    "rcu": "git://github.com/martypdx/rcu",
     "rcu-builders": "^0.1.0"
   }
 }
